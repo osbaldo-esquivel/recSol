@@ -2,10 +2,10 @@ TITLE A Recursive Solution(recSol.asm)
 
 ;// Author: Osbaldo Esquivel
 ;// Date: 27MAY2015
-;// Description: The user will enter a value between 10 and 200. The program will
-;// then generate that many random values and store them in an array. It will then
-;// sort the array using bubble sort and display the sorted array. Finally, it will
-;// calculate and display the median of the array.
+;// Description: The user will be shown a number of elements out of a set. They will then
+;// provide an answer to how many combinations there can be for those elements.
+;// The program will then calculate the number of combinations recursively and display
+;// the answer to the user and confirm their answer.
 
 Include Irvine32.inc
 
